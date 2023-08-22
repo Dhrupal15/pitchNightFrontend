@@ -1,0 +1,16 @@
+.home-card {
+  background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+  transition: box-shadow 0.3s ease-in-out;
+  padding: 20px;
+  margin: 50px auto;
+  font-family: Montserrat, sans-serif;
+  width: 90%;
+}
+
+.home-card:hover {
+  cursor: pointer;
+}
+.container {
+  max-width: 960px;
+}
